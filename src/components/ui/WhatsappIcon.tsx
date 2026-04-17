@@ -1,6 +1,6 @@
 import React from 'react';
 
-const WhatsappIcon = ({
+const WhatsAppIcon = ({
   size = 24, 
   color = '#FFFFFF',
   background = 'transparent',
@@ -43,4 +43,4 @@ const WhatsappIcon = ({
   );
 };
 
-export default WhatsappIcon;
+export default WhatsAppIcon;

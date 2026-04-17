@@ -5,7 +5,7 @@
 
 import { Shield, CheckCircle } from "lucide-react";
 import { useEffect, useRef, useState } from "react";
-import WhatsAppIcon from "../ui/WhatsAppIcon";
+import WhatsAppIcon from "../ui/WhatsappIcon";
 
 const HERO_BG =
   "https://d2xsxph8kpxj0f.cloudfront.net/310519663565020813/iwQJMCYGmhzqMhmrEQANRg/riverguard-hero-bg-98HdSfVXnKt9jPVwBTvc34.webp";

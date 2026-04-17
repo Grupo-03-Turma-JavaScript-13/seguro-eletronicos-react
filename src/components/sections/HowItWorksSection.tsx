@@ -4,12 +4,12 @@
    ============================================================= */
 
 import { UserPlus, Smartphone, FileCheck, DollarSign, Calculator, ShieldCheck, LifeBuoy } from "lucide-react";
-import WhatsappIcon from "../ui/WhatsAppIcon";
+import WhatsAppIcon from "../ui/WhatsappIcon";
 
 const steps = [
   {
     step: "01",
-    icon: WhatsappIcon,
+    icon: WhatsAppIcon,
     color: "text-blue-400",
     bg: "bg-blue-500/15",
     border: "border-blue-500/30",
