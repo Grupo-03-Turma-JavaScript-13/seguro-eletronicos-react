@@ -318,23 +318,20 @@ export default function About() {
             <p className="text-slate-300">
               <strong>Email:</strong>{" "}
               <a
-                href="mailto:contato@rivertech.com"
+                href="mailto:grupo_03-turma-javascript_13@outlook.com"
                 className="text-blue-400 hover:text-blue-300"
               >
-                contato@rivertech.com
+                grupo_03-turma-javascript_13@outlook.com
               </a>
             </p>
             <p className="text-slate-300">
-              <strong>Telefone:</strong> +55 (11) 9999-9999
-            </p>
-            <p className="text-slate-300">
-              <strong>Endereço:</strong> São Paulo, SP - Brasil
+              <strong>Endereço:</strong> Rio de Janeiro, RJ - Brasil
             </p>
           </div>
 
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <a
-              href="mailto:contato@rivertech.com"
+              href="mailto:grupo_03-turma-javascript_13@outlook.com"
               className="px-8 py-3.5 bg-blue-600 hover:bg-blue-500 text-white font-bold rounded-lg transition-all hover:shadow-lg hover:shadow-blue-500/30"
             >
               Enviar Email
